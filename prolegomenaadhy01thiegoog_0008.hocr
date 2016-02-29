@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./prolegomenaadhy01thiegoog_0008.png"; bbox 0 0 3082 4936; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 341 1462 1135 1588">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 341 1462 1135 1588">
+     <span class='ocr_line' id='line_1_1' title="bbox 341 1462 1135 1588; baseline 0.003 -2"><span class='ocrx_word' id='word_1_1' title='bbox 341 1462 697 1586; x_wconf 81' lang='lat' dir='ltr'><strong>GODOFREDO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 742 1470 1135 1588; x_wconf 79' lang='lat' dir='ltr'><strong>BERNHARDY</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 257 1718 1220 1782">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 257 1718 1220 1782">
+     <span class='ocr_line' id='line_1_2' title="bbox 257 1718 1220 1782; baseline 0 -2"><span class='ocrx_word' id='word_1_3' title='bbox 257 1719 348 1780; x_wconf 86' lang='lat' dir='ltr'>VIRO</span> <span class='ocrx_word' id='word_1_4' title='bbox 383 1719 611 1781; x_wconf 83' lang='lat' dir='ltr'>DOOTISSIMO</span> <span class='ocrx_word' id='word_1_5' title='bbox 643 1718 910 1782; x_wconf 81' lang='lat' dir='ltr'>PRAEOEPTORI</span> <span class='ocrx_word' id='word_1_6' title='bbox 946 1719 1220 1780; x_wconf 80' lang='lat' dir='ltr'>BENIGNISSIMO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 475 2476 1001 2526">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 475 2476 1001 2526">
+     <span class='ocr_line' id='line_1_3' title="bbox 475 2476 1001 2526; baseline 0.008 -4"><span class='ocrx_word' id='word_1_7' title='bbox 475 2476 599 2524; x_wconf 67' lang='lat' dir='ltr'><strong>ammi</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 628 2477 752 2526; x_wconf 67' lang='lat' dir='ltr'><strong>mmm</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 781 2481 841 2526; x_wconf 73' lang='lat'><strong>1100</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 873 2479 1001 2525; x_wconf 73' lang='lat' dir='ltr'><strong>mmo</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 866 3134 1139 3191">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 866 3134 1139 3191">
+     <span class='ocr_line' id='line_1_4' title="bbox 866 3134 1139 3191; baseline 0.004 -1"><span class='ocrx_word' id='word_1_11' title='bbox 866 3135 925 3190; x_wconf 76' lang='grc' dir='ltr'><strong>ΡΙΕ</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 953 3134 1139 3191; x_wconf 77' lang='lat' dir='ltr'>TESTATUR</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1546 4936">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1546 4936">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1546 4936; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1546 4936; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
